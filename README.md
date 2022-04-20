@@ -3,8 +3,9 @@
 
 <br>
 
-`Project` : Gradle Project<br>
-`Spring Boot` : 2.6.6<br>
-`Language` : Java<br>
-`Packaging` : Jar<br>
-`Java` : 11<br><br>
+__Project__ : Gradle Project<br>
+__Spring Boot__ : 2.6.6<br>
+__Language__ : Java<br>
+__Packaging__ : Jar<br>
+__Java__ : 11<br><br>
+__library__ : Thymeleaf
